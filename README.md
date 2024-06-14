@@ -1,6 +1,7 @@
 - En la carpeta Proyecto esta el Config, Content y el Uproyet
 
 
+- En el "Enlace ejecutable" hay un enlace a un zip donde se encuentra:
 - En la carpeta "Antiguo ejecutable" es un ejecutable totalmente funcional seguro
 - En la carpeta "Ultimo ejecutable" hay un ejecutable despues de haber organizado los archivos internos del juego donde he tenido problemas con el grabcomponent, pero creo que los he solucionado y ay funciona, pero como no tengo las gafas no estoy segura al 100%
 Pero en ambos archivos el gameplay es el mismo, ya que en el segundo solo elimine archivos que no utilizaba y organice carpetas
